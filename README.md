@@ -36,7 +36,7 @@ encapsulamento
 atributos "readonly"
 Atributos estáticos
 
-6 - Herança, poliformismo, encapsulamento, classes abstratas, métodos estáticos
+6 - Herança, poliformismo, encapsulamento, duck type.
 
 ![javascript introducao oo](https://user-images.githubusercontent.com/59096165/84824738-ca5b0600-aff6-11ea-8a79-437a136bb3d9.PNG)
 
